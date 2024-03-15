@@ -68,6 +68,8 @@ RegisterNumber: 212223110051
 
 **Timing Diagram**
 ![alt text](<Screenshot 2024-03-10 174903.png>)
+![GFHDHH](https://github.com/ShivrajRajasekaran/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742560/f82b9b45-3fae-4809-b3e0-3eba19ae9164)
+
 
 **Result:**
 
